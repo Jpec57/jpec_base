@@ -1,7 +1,7 @@
 library jpec_base;
+import 'package:jpec_base/extensions/extension.dart';
+/// My own package to get started quickly.
+class JpecBasePackage {
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
+
 }
