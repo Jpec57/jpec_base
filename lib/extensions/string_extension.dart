@@ -1,3 +1,5 @@
+part of 'extension.dart';
+
 extension StringExtension on String {
   String capitalize() {
     if (this.length == 1) {
